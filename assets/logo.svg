@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="72" viewBox="0 0 240 72" role="img" aria-label="Devoo">
+  <rect width="240" height="72" rx="14" fill="#0f172a"/>
+  <g transform="translate(18 14)">
+    <rect x="0" y="0" width="44" height="44" rx="12" fill="#b8895a"/>
+    <path d="M12 30V14h8.5c5.2 0 8.5 3.1 8.5 8s-3.3 8-8.5 8H12Zm5.4-4.2h2.8c2.6 0 4.2-1.5 4.2-3.8s-1.6-3.8-4.2-3.8h-2.8v7.6Z" fill="#ffffff"/>
+  </g>
+  <text x="76" y="34" fill="#ffffff" font-family="'Cairo','Segoe UI',Tahoma,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="0.5">Devoo</text>
+  <text x="76" y="54" fill="#b8895a" font-family="'Cairo','Segoe UI',Tahoma,Arial,sans-serif" font-size="13" font-weight="600">ديفو · للأدوات المنزلية</text>
+</svg>
